@@ -7,3 +7,6 @@
 [submodule "zsh-configs"]
 	path = zsh
 	url = git@github.com:Mccranky83/zsh-configs.git
+[submodule "btop"]
+	path = btop
+	url = git@github.com:Mccranky83/btop.git
