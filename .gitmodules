@@ -10,3 +10,6 @@
 [submodule "btop"]
 	path = btop
 	url = git@github.com:Mccranky83/btop.git
+[submodule "tmux"]
+	path = tmux
+	url = git@github.com:Mccranky83/tmux-configs.git
