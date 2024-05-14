@@ -16,3 +16,9 @@
 [submodule "skhd"]
 	path = skhd
 	url = git@gist.github.com:adfc401eff26e9859fc352659186e651.git
+[submodule "zsh"]
+	path = zsh
+	url = git@github.com:Mccranky83/zsh-configs.git
+[submodule "yabai"]
+	path = yabai
+	url = git@gist.github.com:0b086acf4bd3faf98a3914fb16f3d962.git
