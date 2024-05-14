@@ -4,12 +4,15 @@
 [submodule "spicetify"]
 	path = spicetify
 	url = https://github.com/Mccranky83/spicetify-configs.git
-[submodule "zsh-configs"]
-	path = zsh
-	url = git@github.com:Mccranky83/zsh-configs.git
 [submodule "btop"]
 	path = btop
 	url = git@github.com:Mccranky83/btop.git
 [submodule "tmux"]
 	path = tmux
 	url = git@github.com:Mccranky83/tmux-configs.git
+[submodule "starship"]
+	path = starship
+	url = git@gist.github.com:c3d4ac607cd089a4b8b665d6da716a9f.git
+[submodule "skhd"]
+	path = skhd
+	url = git@gist.github.com:adfc401eff26e9859fc352659186e651.git
