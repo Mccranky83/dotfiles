@@ -22,3 +22,6 @@
 [submodule "yabai"]
 	path = yabai
 	url = git@gist.github.com:0b086acf4bd3faf98a3914fb16f3d962.git
+[submodule "fastfetch"]
+	path = fastfetch
+	url = git@gist.github.com:1f880585a518480ac7fe95392395ea3a.git
